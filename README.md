@@ -27,10 +27,16 @@
 
 ## 📁 Структура репозитория
 .
-├── images/ # Исходные изображения
-├── results/ # Результаты обработки
+├── guy_pointing_at_self.jpg  # Исходные изображения
+
+├── cuties.jpg
+
+├── mb_3_var.jpg
+
 ├── Image_Processing_Algorithms_2_ipynb.ipynb # Основной Jupyter Notebook
+
 ├── requirements.txt # Зависимости
+
 └── README.md # Описание проекта
 
 

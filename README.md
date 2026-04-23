@@ -70,3 +70,7 @@
 ```bash
 git clone https://github.com/ВАШ_НИК/computer-vision-practice.git
 cd computer-vision-practice
+```
+
+## 📄 Лицензия
+Этот проект создан в образовательных целях.

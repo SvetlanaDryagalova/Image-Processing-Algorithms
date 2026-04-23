@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (опционально)
+results/*.png
